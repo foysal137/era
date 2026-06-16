@@ -1,0 +1,6 @@
+{
+  "name": "Era coreX1",
+  "description": "Voice AI Assistant Era version coreX1 for Android Smartwatches, featuring powerful memory and personalized owner voice authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
